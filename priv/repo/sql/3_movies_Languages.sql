@@ -4,187 +4,187 @@ create table Languages
     Name text not null
 );
 
-INSERT INTO Languages (Id, Name) VALUES (1, 'English');
-INSERT INTO Languages (Id, Name) VALUES (2, 'German');
-INSERT INTO Languages (Id, Name) VALUES (3, 'Vietnamese');
-INSERT INTO Languages (Id, Name) VALUES (4, 'Swahili');
-INSERT INTO Languages (Id, Name) VALUES (5, 'Russian');
-INSERT INTO Languages (Id, Name) VALUES (6, 'Hindi');
-INSERT INTO Languages (Id, Name) VALUES (7, 'Spanish');
-INSERT INTO Languages (Id, Name) VALUES (8, 'Hmong');
-INSERT INTO Languages (Id, Name) VALUES (9, 'French');
-INSERT INTO Languages (Id, Name) VALUES (10, 'Italian');
-INSERT INTO Languages (Id, Name) VALUES (11, 'Latin');
-INSERT INTO Languages (Id, Name) VALUES (12, 'Greek, Ancient (to 1453)');
-INSERT INTO Languages (Id, Name) VALUES (13, 'Hebrew');
-INSERT INTO Languages (Id, Name) VALUES (14, 'Cantonese');
-INSERT INTO Languages (Id, Name) VALUES (15, 'Japanese');
-INSERT INTO Languages (Id, Name) VALUES (16, 'Hungarian');
-INSERT INTO Languages (Id, Name) VALUES (17, 'Arabic');
-INSERT INTO Languages (Id, Name) VALUES (18, 'Portuguese');
-INSERT INTO Languages (Id, Name) VALUES (19, 'Filipino');
-INSERT INTO Languages (Id, Name) VALUES (20, 'Thai');
-INSERT INTO Languages (Id, Name) VALUES (21, 'Khmer');
-INSERT INTO Languages (Id, Name) VALUES (22, 'Ukrainian');
-INSERT INTO Languages (Id, Name) VALUES (23, 'Greek');
-INSERT INTO Languages (Id, Name) VALUES (24, 'Somali');
-INSERT INTO Languages (Id, Name) VALUES (25, 'Turkish');
-INSERT INTO Languages (Id, Name) VALUES (26, 'Dutch');
-INSERT INTO Languages (Id, Name) VALUES (27, 'Mandarin');
-INSERT INTO Languages (Id, Name) VALUES (28, 'Romanian');
-INSERT INTO Languages (Id, Name) VALUES (29, 'Polish');
-INSERT INTO Languages (Id, Name) VALUES (30, 'North American Indian');
-INSERT INTO Languages (Id, Name) VALUES (31, 'Serbo-Croatian');
-INSERT INTO Languages (Id, Name) VALUES (32, 'Spanish Sign Language');
-INSERT INTO Languages (Id, Name) VALUES (33, 'Korean');
-INSERT INTO Languages (Id, Name) VALUES (34, 'Estonian');
-INSERT INTO Languages (Id, Name) VALUES (35, 'American Sign Language');
-INSERT INTO Languages (Id, Name) VALUES (36, 'Norwegian');
-INSERT INTO Languages (Id, Name) VALUES (37, 'Danish');
-INSERT INTO Languages (Id, Name) VALUES (38, 'Persian');
-INSERT INTO Languages (Id, Name) VALUES (39, 'Tagalog');
-INSERT INTO Languages (Id, Name) VALUES (40, 'Hawaiian');
-INSERT INTO Languages (Id, Name) VALUES (41, 'Armenian');
-INSERT INTO Languages (Id, Name) VALUES (42, 'Slovenian');
-INSERT INTO Languages (Id, Name) VALUES (43, 'Punjabi');
-INSERT INTO Languages (Id, Name) VALUES (44, 'Tibetan');
-INSERT INTO Languages (Id, Name) VALUES (45, 'Welsh');
-INSERT INTO Languages (Id, Name) VALUES (46, 'Icelandic');
-INSERT INTO Languages (Id, Name) VALUES (47, 'Croatian');
-INSERT INTO Languages (Id, Name) VALUES (48, 'Chinese');
-INSERT INTO Languages (Id, Name) VALUES (49, 'Scots');
-INSERT INTO Languages (Id, Name) VALUES (50, 'Bulgarian');
-INSERT INTO Languages (Id, Name) VALUES (51, 'Aboriginal');
-INSERT INTO Languages (Id, Name) VALUES (52, 'Indonesian');
-INSERT INTO Languages (Id, Name) VALUES (53, 'Klingon');
-INSERT INTO Languages (Id, Name) VALUES (54, 'Norse, Old');
-INSERT INTO Languages (Id, Name) VALUES (55, 'Athapascan languages');
-INSERT INTO Languages (Id, Name) VALUES (56, 'Tamil');
-INSERT INTO Languages (Id, Name) VALUES (57, 'Sanskrit');
-INSERT INTO Languages (Id, Name) VALUES (58, 'Apache languages');
-INSERT INTO Languages (Id, Name) VALUES (59, 'Sioux');
-INSERT INTO Languages (Id, Name) VALUES (60, 'Yiddish');
-INSERT INTO Languages (Id, Name) VALUES (61, 'Urdu');
-INSERT INTO Languages (Id, Name) VALUES (62, 'Finnish');
-INSERT INTO Languages (Id, Name) VALUES (63, 'Assyrian Neo-Aramaic');
-INSERT INTO Languages (Id, Name) VALUES (64, 'Aramaic');
-INSERT INTO Languages (Id, Name) VALUES (65, 'Scottish Gaelic');
-INSERT INTO Languages (Id, Name) VALUES (66, 'Irish');
-INSERT INTO Languages (Id, Name) VALUES (67, 'Inuktitut');
-INSERT INTO Languages (Id, Name) VALUES (68, 'Czech');
-INSERT INTO Languages (Id, Name) VALUES (69, 'Central American Indian languages');
-INSERT INTO Languages (Id, Name) VALUES (70, 'None');
-INSERT INTO Languages (Id, Name) VALUES (71, 'Syriac');
-INSERT INTO Languages (Id, Name) VALUES (72, 'Swedish');
-INSERT INTO Languages (Id, Name) VALUES (73, 'French Sign Language');
-INSERT INTO Languages (Id, Name) VALUES (74, 'Kurdish');
-INSERT INTO Languages (Id, Name) VALUES (75, 'Lao');
-INSERT INTO Languages (Id, Name) VALUES (76, 'Akan');
-INSERT INTO Languages (Id, Name) VALUES (77, 'Saami');
-INSERT INTO Languages (Id, Name) VALUES (78, 'Georgian');
-INSERT INTO Languages (Id, Name) VALUES (79, 'Yoruba');
-INSERT INTO Languages (Id, Name) VALUES (80, 'Greenlandic');
-INSERT INTO Languages (Id, Name) VALUES (81, 'Shanghainese');
-INSERT INTO Languages (Id, Name) VALUES (82, 'Ibo');
-INSERT INTO Languages (Id, Name) VALUES (83, 'Slovak');
-INSERT INTO Languages (Id, Name) VALUES (84, 'Kannada');
-INSERT INTO Languages (Id, Name) VALUES (85, 'Malay');
-INSERT INTO Languages (Id, Name) VALUES (86, 'Bengali');
-INSERT INTO Languages (Id, Name) VALUES (87, 'Min Nan');
-INSERT INTO Languages (Id, Name) VALUES (88, 'Hakka');
-INSERT INTO Languages (Id, Name) VALUES (89, 'Serbian');
-INSERT INTO Languages (Id, Name) VALUES (90, 'Haitian');
-INSERT INTO Languages (Id, Name) VALUES (91, 'Berber languages');
-INSERT INTO Languages (Id, Name) VALUES (92, 'Afrikaans');
-INSERT INTO Languages (Id, Name) VALUES (93, 'Xhosa');
-INSERT INTO Languages (Id, Name) VALUES (94, 'Kinyarwanda');
-INSERT INTO Languages (Id, Name) VALUES (95, 'Navajo');
-INSERT INTO Languages (Id, Name) VALUES (96, 'Esperanto');
-INSERT INTO Languages (Id, Name) VALUES (97, 'Dari');
-INSERT INTO Languages (Id, Name) VALUES (98, 'Pushto');
-INSERT INTO Languages (Id, Name) VALUES (99, 'Amharic');
-INSERT INTO Languages (Id, Name) VALUES (100, 'Marathi');
-INSERT INTO Languages (Id, Name) VALUES (101, 'Low German');
-INSERT INTO Languages (Id, Name) VALUES (102, 'Malagasy');
-INSERT INTO Languages (Id, Name) VALUES (103, 'Bosnian');
-INSERT INTO Languages (Id, Name) VALUES (104, 'Aidoukrou');
-INSERT INTO Languages (Id, Name) VALUES (105, 'Malecite-Passamaquoddy');
-INSERT INTO Languages (Id, Name) VALUES (106, 'Visayan');
-INSERT INTO Languages (Id, Name) VALUES (107, 'Nepali');
-INSERT INTO Languages (Id, Name) VALUES (108, 'Telugu');
-INSERT INTO Languages (Id, Name) VALUES (109, 'Swiss German');
-INSERT INTO Languages (Id, Name) VALUES (110, 'Malayalam');
-INSERT INTO Languages (Id, Name) VALUES (111, 'Catalan');
-INSERT INTO Languages (Id, Name) VALUES (112, 'Quechua');
-INSERT INTO Languages (Id, Name) VALUES (113, 'Maya');
-INSERT INTO Languages (Id, Name) VALUES (114, 'Kashmiri');
-INSERT INTO Languages (Id, Name) VALUES (115, 'Rotuman');
-INSERT INTO Languages (Id, Name) VALUES (116, 'Lithuanian');
-INSERT INTO Languages (Id, Name) VALUES (117, 'Flemish');
-INSERT INTO Languages (Id, Name) VALUES (118, 'Mongolian');
-INSERT INTO Languages (Id, Name) VALUES (119, 'Polynesian');
-INSERT INTO Languages (Id, Name) VALUES (120, 'Gujarati');
-INSERT INTO Languages (Id, Name) VALUES (121, 'Wolof');
-INSERT INTO Languages (Id, Name) VALUES (122, 'Belarusian');
-INSERT INTO Languages (Id, Name) VALUES (123, 'British Sign Language');
-INSERT INTO Languages (Id, Name) VALUES (124, 'Burmese');
-INSERT INTO Languages (Id, Name) VALUES (125, 'Albanian');
-INSERT INTO Languages (Id, Name) VALUES (126, 'Latvian');
-INSERT INTO Languages (Id, Name) VALUES (127, 'Balinese');
-INSERT INTO Languages (Id, Name) VALUES (128, 'Zulu');
-INSERT INTO Languages (Id, Name) VALUES (129, 'Macedonian');
-INSERT INTO Languages (Id, Name) VALUES (130, 'Southern Sotho');
-INSERT INTO Languages (Id, Name) VALUES (131, 'Nahuatl');
-INSERT INTO Languages (Id, Name) VALUES (132, 'Ladino');
-INSERT INTO Languages (Id, Name) VALUES (133, 'Bambara');
-INSERT INTO Languages (Id, Name) VALUES (134, 'Mixtec');
-INSERT INTO Languages (Id, Name) VALUES (135, 'Rajasthani');
-INSERT INTO Languages (Id, Name) VALUES (136, 'Creek');
-INSERT INTO Languages (Id, Name) VALUES (137, 'Hopi');
-INSERT INTO Languages (Id, Name) VALUES (138, 'Kazakh');
-INSERT INTO Languages (Id, Name) VALUES (139, 'Samoan');
-INSERT INTO Languages (Id, Name) VALUES (140, 'Basque');
-INSERT INTO Languages (Id, Name) VALUES (141, 'Middle English');
-INSERT INTO Languages (Id, Name) VALUES (142, 'Tzotzil');
-INSERT INTO Languages (Id, Name) VALUES (143, 'Kuna');
-INSERT INTO Languages (Id, Name) VALUES (144, 'Cheyenne');
-INSERT INTO Languages (Id, Name) VALUES (145, 'Crow');
-INSERT INTO Languages (Id, Name) VALUES (146, 'Maori');
-INSERT INTO Languages (Id, Name) VALUES (147, 'Shoshoni');
-INSERT INTO Languages (Id, Name) VALUES (148, 'Indian Sign Language');
-INSERT INTO Languages (Id, Name) VALUES (149, 'Tonga');
-INSERT INTO Languages (Id, Name) VALUES (150, 'Mohawk');
-INSERT INTO Languages (Id, Name) VALUES (151, 'Cree');
-INSERT INTO Languages (Id, Name) VALUES (152, 'Algonquin');
-INSERT INTO Languages (Id, Name) VALUES (153, 'Luxembourgish');
-INSERT INTO Languages (Id, Name) VALUES (154, 'Egyptian (Ancient)');
-INSERT INTO Languages (Id, Name) VALUES (155, 'Chechen');
-INSERT INTO Languages (Id, Name) VALUES (156, 'Kirundi');
-INSERT INTO Languages (Id, Name) VALUES (157, 'Tswana');
-INSERT INTO Languages (Id, Name) VALUES (158, 'Sign Languages');
-INSERT INTO Languages (Id, Name) VALUES (159, 'Acholi');
-INSERT INTO Languages (Id, Name) VALUES (160, 'Washoe');
-INSERT INTO Languages (Id, Name) VALUES (161, 'Sindarin');
-INSERT INTO Languages (Id, Name) VALUES (162, 'Brazilian Sign Language');
-INSERT INTO Languages (Id, Name) VALUES (163, 'Arapaho');
-INSERT INTO Languages (Id, Name) VALUES (164, 'Lingala');
-INSERT INTO Languages (Id, Name) VALUES (165, 'Mende');
-INSERT INTO Languages (Id, Name) VALUES (166, 'Old English');
-INSERT INTO Languages (Id, Name) VALUES (167, 'Maltese');
-INSERT INTO Languages (Id, Name) VALUES (168, 'Papiamento');
-INSERT INTO Languages (Id, Name) VALUES (169, 'Japanese Sign Language');
-INSERT INTO Languages (Id, Name) VALUES (170, 'Romany');
-INSERT INTO Languages (Id, Name) VALUES (171, 'Tupi');
-INSERT INTO Languages (Id, Name) VALUES (172, 'Pawnee');
-INSERT INTO Languages (Id, Name) VALUES (173, 'Nyanja');
-INSERT INTO Languages (Id, Name) VALUES (174, 'Tok Pisin');
-INSERT INTO Languages (Id, Name) VALUES (175, 'Cornish');
-INSERT INTO Languages (Id, Name) VALUES (176, 'Uzbek');
-INSERT INTO Languages (Id, Name) VALUES (177, 'Sinhalese');
-INSERT INTO Languages (Id, Name) VALUES (178, 'Sicilian');
-INSERT INTO Languages (Id, Name) VALUES (179, 'Hokkien');
-INSERT INTO Languages (Id, Name) VALUES (180, 'Turkmen');
-INSERT INTO Languages (Id, Name) VALUES (181, 'Nama');
-INSERT INTO Languages (Id, Name) VALUES (182, 'Tigrigna');
-INSERT INTO Languages (Id, Name) VALUES (183, 'Tlingit');
-INSERT INTO Languages (Id, Name) VALUES (184, 'Cherokee');
+INSERT INTO Languages (Id, Name) VALUES  (1, 'English'),
+(2, 'German'),
+(3, 'Vietnamese'),
+(4, 'Swahili'),
+(5, 'Russian'),
+(6, 'Hindi'),
+(7, 'Spanish'),
+(8, 'Hmong'),
+(9, 'French'),
+(10, 'Italian'),
+(11, 'Latin'),
+(12, 'Greek, Ancient (to 1453)'),
+(13, 'Hebrew'),
+(14, 'Cantonese'),
+(15, 'Japanese'),
+(16, 'Hungarian'),
+(17, 'Arabic'),
+(18, 'Portuguese'),
+(19, 'Filipino'),
+(20, 'Thai'),
+(21, 'Khmer'),
+(22, 'Ukrainian'),
+(23, 'Greek'),
+(24, 'Somali'),
+(25, 'Turkish'),
+(26, 'Dutch'),
+(27, 'Mandarin'),
+(28, 'Romanian'),
+(29, 'Polish'),
+(30, 'North American Indian'),
+(31, 'Serbo-Croatian'),
+(32, 'Spanish Sign Language'),
+(33, 'Korean'),
+(34, 'Estonian'),
+(35, 'American Sign Language'),
+(36, 'Norwegian'),
+(37, 'Danish'),
+(38, 'Persian'),
+(39, 'Tagalog'),
+(40, 'Hawaiian'),
+(41, 'Armenian'),
+(42, 'Slovenian'),
+(43, 'Punjabi'),
+(44, 'Tibetan'),
+(45, 'Welsh'),
+(46, 'Icelandic'),
+(47, 'Croatian'),
+(48, 'Chinese'),
+(49, 'Scots'),
+(50, 'Bulgarian'),
+(51, 'Aboriginal'),
+(52, 'Indonesian'),
+(53, 'Klingon'),
+(54, 'Norse, Old'),
+(55, 'Athapascan languages'),
+(56, 'Tamil'),
+(57, 'Sanskrit'),
+(58, 'Apache languages'),
+(59, 'Sioux'),
+(60, 'Yiddish'),
+(61, 'Urdu'),
+(62, 'Finnish'),
+(63, 'Assyrian Neo-Aramaic'),
+(64, 'Aramaic'),
+(65, 'Scottish Gaelic'),
+(66, 'Irish'),
+(67, 'Inuktitut'),
+(68, 'Czech'),
+(69, 'Central American Indian languages'),
+(70, 'None'),
+(71, 'Syriac'),
+(72, 'Swedish'),
+(73, 'French Sign Language'),
+(74, 'Kurdish'),
+(75, 'Lao'),
+(76, 'Akan'),
+(77, 'Saami'),
+(78, 'Georgian'),
+(79, 'Yoruba'),
+(80, 'Greenlandic'),
+(81, 'Shanghainese'),
+(82, 'Ibo'),
+(83, 'Slovak'),
+(84, 'Kannada'),
+(85, 'Malay'),
+(86, 'Bengali'),
+(87, 'Min Nan'),
+(88, 'Hakka'),
+(89, 'Serbian'),
+(90, 'Haitian'),
+(91, 'Berber languages'),
+(92, 'Afrikaans'),
+(93, 'Xhosa'),
+(94, 'Kinyarwanda'),
+(95, 'Navajo'),
+(96, 'Esperanto'),
+(97, 'Dari'),
+(98, 'Pushto'),
+(99, 'Amharic'),
+(100, 'Marathi'),
+(101, 'Low German'),
+(102, 'Malagasy'),
+(103, 'Bosnian'),
+(104, 'Aidoukrou'),
+(105, 'Malecite-Passamaquoddy'),
+(106, 'Visayan'),
+(107, 'Nepali'),
+(108, 'Telugu'),
+(109, 'Swiss German'),
+(110, 'Malayalam'),
+(111, 'Catalan'),
+(112, 'Quechua'),
+(113, 'Maya'),
+(114, 'Kashmiri'),
+(115, 'Rotuman'),
+(116, 'Lithuanian'),
+(117, 'Flemish'),
+(118, 'Mongolian'),
+(119, 'Polynesian'),
+(120, 'Gujarati'),
+(121, 'Wolof'),
+(122, 'Belarusian'),
+(123, 'British Sign Language'),
+(124, 'Burmese'),
+(125, 'Albanian'),
+(126, 'Latvian'),
+(127, 'Balinese'),
+(128, 'Zulu'),
+(129, 'Macedonian'),
+(130, 'Southern Sotho'),
+(131, 'Nahuatl'),
+(132, 'Ladino'),
+(133, 'Bambara'),
+(134, 'Mixtec'),
+(135, 'Rajasthani'),
+(136, 'Creek'),
+(137, 'Hopi'),
+(138, 'Kazakh'),
+(139, 'Samoan'),
+(140, 'Basque'),
+(141, 'Middle English'),
+(142, 'Tzotzil'),
+(143, 'Kuna'),
+(144, 'Cheyenne'),
+(145, 'Crow'),
+(146, 'Maori'),
+(147, 'Shoshoni'),
+(148, 'Indian Sign Language'),
+(149, 'Tonga'),
+(150, 'Mohawk'),
+(151, 'Cree'),
+(152, 'Algonquin'),
+(153, 'Luxembourgish'),
+(154, 'Egyptian (Ancient)'),
+(155, 'Chechen'),
+(156, 'Kirundi'),
+(157, 'Tswana'),
+(158, 'Sign Languages'),
+(159, 'Acholi'),
+(160, 'Washoe'),
+(161, 'Sindarin'),
+(162, 'Brazilian Sign Language'),
+(163, 'Arapaho'),
+(164, 'Lingala'),
+(165, 'Mende'),
+(166, 'Old English'),
+(167, 'Maltese'),
+(168, 'Papiamento'),
+(169, 'Japanese Sign Language'),
+(170, 'Romany'),
+(171, 'Tupi'),
+(172, 'Pawnee'),
+(173, 'Nyanja'),
+(174, 'Tok Pisin'),
+(175, 'Cornish'),
+(176, 'Uzbek'),
+(177, 'Sinhalese'),
+(178, 'Sicilian'),
+(179, 'Hokkien'),
+(180, 'Turkmen'),
+(181, 'Nama'),
+(182, 'Tigrigna'),
+(183, 'Tlingit'),
+(184, 'Cherokee');

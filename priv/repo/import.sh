@@ -22,8 +22,6 @@ if [ -z "$uri" ]; then
   uri="postgresql://$username:$password@$host:$port/$database"
 fi
 
-echo $uri
-
 # Connect to the database and execute SQL files
 for file in $(find "./sql" -type f | sort); do
   psql "$uri" -f "$file" >/dev/null 2>&1
