@@ -29,17 +29,17 @@ defmodule Movies.MovieRepo do
   def maybe_search(query, nil), do: query
 
   def maybe_search(query, search_term) do
-    query =
-      from(entry in Movie,
-        where:
-          fragment(
-            "ARRAY[?, ?] &@~ (?, ARRAY[5, 1], 'entries_pgroonga_index')::pgroonga_full_text_search_condition",
-            entry.title,
-            entry.description,
-            ^search_term
-          ),
-        order_by: fragment("pgroonga_score(tableoid, ctid) DESC")
-      )
+    from(
+      entry in query,
+      where:
+        fragment(
+          "ARRAY[?, ?] &@~ (?, ARRAY[5, 1], 'entries_pgroonga_index')::pgroonga_full_text_search_condition",
+          entry.title,
+          entry.description,
+          ^search_term
+        ),
+      order_by: fragment("pgroonga_score(tableoid, ctid) DESC")
+    )
   end
 
   @doc """

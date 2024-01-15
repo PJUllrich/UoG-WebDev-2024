@@ -11,7 +11,8 @@
   <.form phx-change="search" phx-submit="search" class="w-full">
     <input
       type="text"
-      name="query"
+      name="search"
+      value={@opts.search}
       class="w-full rounded-lg border border-slate-400"
       placeholder="Search for a movie"
       phx-debounce="500"
@@ -23,9 +24,11 @@
   id="movies"
   rows={@streams.movies}
   opts={@opts}
-  row_click={fn {_id, movie} -> JS.navigate(~p"/#{movie}") end}
   header_click={
-    fn sort_by -> JS.navigate(~p"/?#{[sort_by: sort_by, order: reverse_order(@opts.order)]}") end
+    fn sort_by ->
+      params = query_params(@opts, sort_by: sort_by, order: reverse_order(@opts.order))
+      JS.navigate(~p"/?#{params}")
+    end
   }
 >
   <:col :let={{_id, movie}} sort_by={:title} label="Title" header_class="w-2/12">
@@ -65,12 +68,12 @@
     <%= movie.review_metascore %>
   </:col>
   <:col :let={{_id, movie}} label="Imdb url" header_class="w-1/12">
-    <a href={movie.imdburl} target="_blank">Link</a>
+    <.link href={movie.imdburl} target="_blank" class="text-blue-500 hover:underline">Link</.link>
   </:col>
   <:action :let={{_id, movie}}>
-    <div class="sr-only">
-      <.link navigate={~p"/#{movie}"}>Show</.link>
-    </div>
+    <.link patch={~p"/#{movie}"}>Show</.link>
+  </:action>
+  <:action :let={{_id, movie}}>
     <.link patch={~p"/#{movie}/edit"}>Edit</.link>
   </:action>
   <:action :let={{id, movie}}>

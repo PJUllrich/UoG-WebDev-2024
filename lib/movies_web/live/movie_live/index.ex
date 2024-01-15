@@ -7,11 +7,22 @@ defmodule MoviesWeb.MovieLive.Index do
   def reverse_order(:asc_nulls_last), do: :desc_nulls_last
   def reverse_order(:desc_nulls_last), do: :asc_nulls_last
 
+  def query_params(opts, overrides) do
+    default_params = [
+      sort_by: opts.sort_by,
+      order: opts.order,
+      search: opts.search
+    ]
+
+    Keyword.merge(default_params, overrides)
+  end
+
   @default_opts %{
     "sort_by" => "id",
     "order" => "asc_nulls_last",
     "search" => ""
   }
+  @default_page_size 10
 
   @impl true
   def mount(_params, _session, socket) do
@@ -48,8 +59,10 @@ defmodule MoviesWeb.MovieLive.Index do
   end
 
   @impl true
-  def handle_event("search", params, socket) do
-    {:noreply, assign_movies(socket, params)}
+  def handle_event("search", %{"search" => search}, socket) do
+    opts = socket.assigns.opts
+    IO.inspect(opts)
+    {:noreply, push_patch(socket, to: ~p"/?#{query_params(opts, search: search)}")}
   end
 
   @impl true
@@ -71,10 +84,11 @@ defmodule MoviesWeb.MovieLive.Index do
   end
 
   defp parse_opts(params) do
-    search = params |> Map.get("query", "") |> parse_search()
+    search = params |> Map.get("search", "") |> parse_search()
     sort_by = params |> Map.get("sort_by", "id") |> String.to_existing_atom()
     order = params |> Map.get("order", "asc_nulls_last") |> String.to_existing_atom()
-    %{sort_by: sort_by, order: order, search: search, page_size: 10}
+
+    %{sort_by: sort_by, order: order, search: search, page_size: @default_page_size}
   end
 
   defp parse_search(""), do: nil
