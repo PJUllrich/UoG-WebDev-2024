@@ -25,6 +25,11 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 movies-*.tar
 
+# Ignore language servers
+.lexical/
+.elixir_ls/
+.next-tools/
+
 # Ignore assets that are produced by build tools.
 /priv/static/assets/
 
