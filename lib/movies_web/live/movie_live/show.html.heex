@@ -14,7 +14,10 @@
     <:item title="Year"><%= @movie.year %></:item>
     <:item title="Description"><%= @movie.description %></:item>
     <:item title="Review user count"><%= @movie.review_usercount %></:item>
-    <:item title="Review user score"><%= @movie.review_userscore && @movie.review_userscore |> Decimal.to_float() |> Float.round(2) %></:item>
+    <:item title="Review user score">
+      <%= @movie.review_userscore &&
+        @movie.review_userscore |> Decimal.to_float() |> Float.round(2) %>
+    </:item>
     <:item title="Review meta score"><%= @movie.review_metascore %></:item>
     <:item title="Imdb url"><%= @movie.imdburl %></:item>
   </.list>
