@@ -17,6 +17,8 @@ defmodule MoviesWeb.Router do
   scope "/", MoviesWeb do
     pipe_through(:browser)
 
+    live("/temp", TempLive)
+
     live("/", MovieLive.Index, :index)
     live("/new", MovieLive.Index, :new)
     live("/:id/edit", MovieLive.Index, :edit)

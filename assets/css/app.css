@@ -3,3 +3,27 @@
 @import "tailwindcss/utilities";
 
 /* This file is for your main application CSS */
+
+.meter {
+  @apply rounded-full bg-gray-200 border border-gray-300 text-black h-80 w-80 flex flex-col justify-center items-center;
+}
+
+.heating {
+  @apply bg-red-500;
+}
+
+.cooling {
+  @apply bg-blue-500;
+}
+
+.meter span:first-of-type {
+  @apply text-5xl font-bold;
+}
+
+.meter span:last-of-type {
+  @apply text-2xl font-semibold;
+}
+
+.meter button {
+  @apply rounded-lg bg-gray-300 border border-gray-300 text-black w-20 mt-4 mb-2 text-xl;
+}

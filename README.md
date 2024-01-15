@@ -2,12 +2,15 @@
 
 To start your Phoenix server:
 
-  * Run `mix setup` to install and setup dependencies
+  * Install Elixir. See instructions [here](https://elixir-lang.org/install.html)
+  * Start the Postgres Docker container with: `docker compose up -d`
+  * Run `mix deps.get` to install the dependencies
+  * Run `mix ecto.create` to create the database
+  * Import the Movies dataset with `cd ./priv/repo && ./import.sh` (this might take a while)
+  * Run `mix ecto.migrate` to add the search indexes.
   * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
 ## Learn more
 
