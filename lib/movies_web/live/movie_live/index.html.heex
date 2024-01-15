@@ -1,5 +1,7 @@
 <.header>
-  <.link navigate={~p"/"} class="text-2xl font-bold">Listing Movies (<%= @total_count %>)</.link>
+  <.link navigate={~p"/"} class="text-2xl font-bold">
+    Listing Movies (<%= @opts.total_count %>)
+  </.link>
   <:actions>
     <.link patch={~p"/new"}>
       <.button>New Movie</.button>
@@ -20,71 +22,79 @@
   </.form>
 </div>
 
-<.table
-  id="movies"
-  rows={@streams.movies}
-  opts={@opts}
-  header_click={
-    fn sort_by ->
-      params = query_params(@opts, sort_by: sort_by, order: reverse_order(@opts.order))
-      JS.navigate(~p"/?#{params}")
-    end
-  }
->
-  <:col :let={{_id, movie}} sort_by={:title} label="Title" header_class="w-2/12">
-    <%= movie.title %>
-  </:col>
-  <:col :let={{_id, movie}} sort_by={:rating} label="Rating" header_class="w-1/12">
-    <%= movie.rating %>
-  </:col>
-  <:col :let={{_id, movie}} sort_by={:year} label="Year" header_class="w-1/12">
-    <%= movie.year %>
-  </:col>
-  <:col :let={{_id, movie}} label="Description" header_class="w-3/12">
-    <%= movie.description %>
-  </:col>
-  <:col
-    :let={{_id, movie}}
-    sort_by={:review_usercount}
-    label="Review user count"
-    header_class="w-1/12"
+<div class="mt-8 border-y border-gray-300">
+  <.table
+    id="movies"
+    rows={@streams.movies}
+    opts={@opts}
+    header_click={
+      fn sort_by ->
+        params = Helpers.query_params(@opts, sort_by: sort_by, order: reverse_order(@opts.order))
+        JS.navigate(~p"/?#{params}")
+      end
+    }
   >
-    <%= movie.review_usercount %>
-  </:col>
-  <:col
-    :let={{_id, movie}}
-    sort_by={:review_userscore}
-    label="Review user score"
-    header_class="w-1/12"
-  >
-    <%= movie.review_userscore && movie.review_userscore |> Decimal.to_float() |> Float.round(2) %>
-  </:col>
-  <:col
-    :let={{_id, movie}}
-    sort_by={:review_metascore}
-    label="Review meta score"
-    header_class="w-1/12"
-  >
-    <%= movie.review_metascore %>
-  </:col>
-  <:col :let={{_id, movie}} label="Imdb url" header_class="w-1/12">
-    <.link href={movie.imdburl} target="_blank" class="text-blue-500 hover:underline">Link</.link>
-  </:col>
-  <:action :let={{_id, movie}}>
-    <.link patch={~p"/#{movie}"}>Show</.link>
-  </:action>
-  <:action :let={{_id, movie}}>
-    <.link patch={~p"/#{movie}/edit"}>Edit</.link>
-  </:action>
-  <:action :let={{id, movie}}>
-    <.link
-      phx-click={JS.push("delete", value: %{id: movie.id}) |> hide("##{id}")}
-      data-confirm="Are you sure?"
+    <:col :let={{_id, movie}} sort_by={:title} label="Title" header_class="w-2/12">
+      <%= movie.title %>
+    </:col>
+    <:col :let={{_id, movie}} sort_by={:rating} label="Rating" header_class="w-1/12">
+      <%= movie.rating %>
+    </:col>
+    <:col :let={{_id, movie}} sort_by={:year} label="Year" header_class="w-1/12">
+      <%= movie.year %>
+    </:col>
+    <:col :let={{_id, movie}} label="Description" header_class="w-3/12">
+      <%= movie.description %>
+    </:col>
+    <:col
+      :let={{_id, movie}}
+      sort_by={:review_usercount}
+      label="Review user count"
+      header_class="w-1/12"
     >
-      Delete
-    </.link>
-  </:action>
-</.table>
+      <%= movie.review_usercount %>
+    </:col>
+    <:col
+      :let={{_id, movie}}
+      sort_by={:review_userscore}
+      label="Review user score"
+      header_class="w-1/12"
+    >
+      <%= movie.review_userscore && movie.review_userscore |> Decimal.to_float() |> Float.round(2) %>
+    </:col>
+    <:col
+      :let={{_id, movie}}
+      sort_by={:review_metascore}
+      label="Review meta score"
+      header_class="w-1/12"
+    >
+      <%= movie.review_metascore %>
+    </:col>
+    <:col :let={{_id, movie}} label="Imdb url" header_class="w-1/12">
+      <.link href={movie.imdburl} target="_blank" class="text-blue-500 hover:underline">
+        Link
+      </.link>
+    </:col>
+    <:action :let={{_id, movie}}>
+      <.link patch={~p"/#{movie}"}>Show</.link>
+    </:action>
+    <:action :let={{_id, movie}}>
+      <.link patch={~p"/#{movie}/edit"}>Edit</.link>
+    </:action>
+    <:action :let={{id, movie}}>
+      <.link
+        phx-click={JS.push("delete", value: %{id: movie.id}) |> hide("##{id}")}
+        data-confirm="Are you sure?"
+      >
+        Delete
+      </.link>
+    </:action>
+  </.table>
+</div>
+
+<div class="mt-8 w-full flex justify-center">
+  <PaginationComponent.show opts={@opts} />
+</div>
 
 <.modal :if={@live_action in [:new, :edit]} id="movie-modal" show on_cancel={JS.patch(~p"/")}>
   <.live_component

@@ -4,18 +4,11 @@ defmodule MoviesWeb.MovieLive.Index do
   alias Movies.MovieRepo
   alias Movies.MovieRepo.Movie
 
+  alias MoviesWeb.MovieLive.Helpers
+  alias MoviesWeb.MovieLive.PaginationComponent
+
   def reverse_order(:asc_nulls_last), do: :desc_nulls_last
   def reverse_order(:desc_nulls_last), do: :asc_nulls_last
-
-  def query_params(opts, overrides) do
-    default_params = [
-      sort_by: opts.sort_by,
-      order: opts.order,
-      search: opts.search
-    ]
-
-    Keyword.merge(default_params, overrides)
-  end
 
   @default_opts %{
     "sort_by" => "id",
@@ -61,8 +54,7 @@ defmodule MoviesWeb.MovieLive.Index do
   @impl true
   def handle_event("search", %{"search" => search}, socket) do
     opts = socket.assigns.opts
-    IO.inspect(opts)
-    {:noreply, push_patch(socket, to: ~p"/?#{query_params(opts, search: search)}")}
+    {:noreply, push_patch(socket, to: ~p"/?#{Helpers.query_params(opts, search: search)}")}
   end
 
   @impl true
@@ -76,10 +68,10 @@ defmodule MoviesWeb.MovieLive.Index do
   defp assign_movies(socket, params) do
     opts = parse_opts(params)
     %{result: movies, total_count: total_count} = MovieRepo.list_movies(opts)
+    opts = Map.put(opts, :total_count, total_count)
 
     socket
     |> stream(:movies, movies, reset: true)
-    |> assign(:total_count, total_count)
     |> assign(:opts, opts)
   end
 
@@ -87,8 +79,9 @@ defmodule MoviesWeb.MovieLive.Index do
     search = params |> Map.get("search", "") |> parse_search()
     sort_by = params |> Map.get("sort_by", "id") |> String.to_existing_atom()
     order = params |> Map.get("order", "asc_nulls_last") |> String.to_existing_atom()
+    page = params |> Map.get("page", "1") |> String.to_integer()
 
-    %{sort_by: sort_by, order: order, search: search, page_size: @default_page_size}
+    %{sort_by: sort_by, order: order, search: search, page: page, page_size: @default_page_size}
   end
 
   defp parse_search(""), do: nil

@@ -17,11 +17,18 @@ defmodule Movies.MovieRepo do
       [%Movie{}, ...]
 
   """
-  def list_movies(%{sort_by: sort_by, order: order, page_size: page_size, search: search}) do
+  def list_movies(%{
+        sort_by: sort_by,
+        order: order,
+        page: page,
+        page_size: page_size,
+        search: search
+      }) do
     query = Movie |> order_by({^order, ^sort_by}) |> maybe_search(search)
-
     total_count = Repo.aggregate(query, :count)
-    result = query |> limit(^page_size) |> Repo.all()
+
+    offset = (page - 1) * page_size
+    result = query |> offset(^offset) |> limit(^page_size) |> Repo.all()
 
     %{total_count: total_count, result: result}
   end
