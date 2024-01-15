@@ -1,0 +1,62 @@
+<.header>
+  Listing Movies
+  <:actions>
+    <.link patch={~p"/new"}>
+      <.button>New Movie</.button>
+    </.link>
+  </:actions>
+</.header>
+
+<div class="max-w-xl mx-auto">
+  <.form phx-change="search" phx-submit="search" class="w-full">
+    <input
+      type="text"
+      name="query"
+      class="w-full rounded-lg border border-slate-400"
+      placeholder="Search for a movie"
+      phx-debounce="500"
+    />
+  </.form>
+</div>
+
+<.table
+  id="movies"
+  rows={@streams.movies}
+  row_click={fn {_id, movie} -> JS.navigate(~p"/#{movie}") end}
+>
+  <:col :let={{_id, movie}} label="Title"><%= movie.title %></:col>
+  <:col :let={{_id, movie}} label="Rating"><%= movie.rating %></:col>
+  <:col :let={{_id, movie}} label="Year"><%= movie.year %></:col>
+  <:col :let={{_id, movie}} label="Description"><%= movie.description %></:col>
+  <:col :let={{_id, movie}} label="Review user count"><%= movie.review_usercount %></:col>
+  <:col :let={{_id, movie}} label="Review user score">
+    <%= movie.review_userscore |> Decimal.to_float() |> Float.round(2) %>
+  </:col>
+  <:col :let={{_id, movie}} label="Review meta score"><%= movie.review_metascore %></:col>
+  <:col :let={{_id, movie}} label="Imdb url"><%= movie.imdburl %></:col>
+  <:action :let={{_id, movie}}>
+    <div class="sr-only">
+      <.link navigate={~p"/#{movie}"}>Show</.link>
+    </div>
+    <.link patch={~p"/#{movie}/edit"}>Edit</.link>
+  </:action>
+  <:action :let={{id, movie}}>
+    <.link
+      phx-click={JS.push("delete", value: %{id: movie.id}) |> hide("##{id}")}
+      data-confirm="Are you sure?"
+    >
+      Delete
+    </.link>
+  </:action>
+</.table>
+
+<.modal :if={@live_action in [:new, :edit]} id="movie-modal" show on_cancel={JS.patch(~p"/")}>
+  <.live_component
+    module={MoviesWeb.MovieLive.FormComponent}
+    id={@movie.id || :new}
+    title={@page_title}
+    action={@live_action}
+    movie={@movie}
+    patch={~p"/"}
+  />
+</.modal>

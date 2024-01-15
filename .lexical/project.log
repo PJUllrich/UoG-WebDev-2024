@@ -1,0 +1,1110 @@
+2024-01-15T11:03:08.348185+01:00 info: Plugins found 0 results in 0.03 ms
+2024-01-15T11:03:08.391835+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/priv/repo/migrations/20230514060112_add_pgroonga_extension.exs error was false
+2024-01-15T11:03:08.393043+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024/priv/repo/migrations
+2024-01-15T11:03:08.452188+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:03:08.657612+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T11:37:12.957930+01:00 info: Plugins found 0 results in 0.051 ms
+2024-01-15T11:37:13.777235+01:00 info: Plugins found 0 results in 0.032 ms
+2024-01-15T11:37:14.800156+01:00 info: Plugins found 0 results in 0.028 ms
+2024-01-15T11:37:17.554853+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:37:20.158835+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:37:22.862917+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T11:37:25.362814+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:37:25.404464+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo/movie.ex error was false
+2024-01-15T11:37:25.404793+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo error was false
+2024-01-15T11:37:25.404965+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T11:37:25.405085+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:37:25.406292+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:37:25.600960+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:37:25.823549+01:00 info: Plugins found 0 results in 0.019 ms
+2024-01-15T11:37:32.352705+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:37:35.720035+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:37:36.357464+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/router.ex error was false
+2024-01-15T11:37:36.357895+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:37:36.358187+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:37:36.358763+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:37:36.491603+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:37:36.740996+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:37:38.885486+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T11:37:38.903455+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/router.ex error was false
+2024-01-15T11:37:38.903713+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:37:38.904011+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:37:38.904748+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:37:38.960941+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:37:39.193545+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:37:59.495754+01:00 info: Plugins found 0 results in 0.026 ms
+2024-01-15T11:38:08.115674+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:38:11.125704+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:38:13.829833+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:38:13.912427+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:38:13.912657+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:38:13.912787+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:38:13.913050+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:38:13.913232+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:38:13.914300+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:38:13.965485+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:38:14.188017+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:38:19.339692+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:38:21.584932+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:38:22.411099+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/show.html.heex error was false
+2024-01-15T11:38:22.411734+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:38:22.412072+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:38:22.412341+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:38:22.412623+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:38:22.413273+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:38:22.470696+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:38:22.708073+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T11:38:36.174230+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:38:36.642579+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo/movie.ex error was false
+2024-01-15T11:38:36.643085+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo error was false
+2024-01-15T11:38:36.643500+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T11:38:36.643813+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:38:36.644473+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:38:36.703760+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:38:36.939547+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:38:41.990283+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:38:42.655676+01:00 info: Plugins found 0 results in 0.056 ms
+2024-01-15T11:38:43.501698+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo/movie.ex error was false
+2024-01-15T11:38:43.502263+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo error was false
+2024-01-15T11:38:43.502533+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T11:38:43.502888+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:38:43.503606+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:38:43.563716+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:38:43.779525+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T11:38:52.215634+01:00 warning: Unhandled completion suggestion: %{label: ":decimal", priority: 0, type: :generic, kind: :type_parameter, snippet: nil, documentation: "Built-in Ecto type.\n\n* **Elixir type:** `Decimal`\n", detail: "Ecto type", insert_text: "decimal"}
+2024-01-15T11:38:52.215802+01:00 warning: Unhandled completion suggestion: %{label: ":id", priority: 0, type: :generic, kind: :type_parameter, snippet: nil, documentation: "Built-in Ecto type.\n\n* **Elixir type:** `integer`\n* **Literal syntax:** `1, 2, 3`", detail: "Ecto type", insert_text: "id"}
+2024-01-15T11:38:52.215895+01:00 warning: Unhandled completion suggestion: %{label: ":date", priority: 0, type: :generic, kind: :type_parameter, snippet: nil, documentation: "Built-in Ecto type.\n\n* **Elixir type:** `Date`\n", detail: "Ecto type", insert_text: "date"}
+2024-01-15T11:38:52.215987+01:00 warning: Unhandled completion suggestion: %{label: ":naive_datetime", priority: 0, type: :generic, kind: :type_parameter, snippet: nil, documentation: "Built-in Ecto type.\n\n* **Elixir type:** `NaiveDateTime`\n", detail: "Ecto type", insert_text: "naive_datetime"}
+2024-01-15T11:38:52.216068+01:00 warning: Unhandled completion suggestion: %{label: ":naive_datetime_usec", priority: 0, type: :generic, kind: :type_parameter, snippet: nil, documentation: "Built-in Ecto type.\n\n* **Elixir type:** `NaiveDateTime`\n", detail: "Ecto type", insert_text: "naive_datetime_usec"}
+2024-01-15T11:38:52.216187+01:00 warning: Unhandled completion suggestion: %{label: ":utc_datetime", priority: 0, type: :generic, kind: :type_parameter, snippet: nil, documentation: "Built-in Ecto type.\n\n* **Elixir type:** `DateTime`\n", detail: "Ecto type", insert_text: "utc_datetime"}
+2024-01-15T11:38:52.216249+01:00 warning: Unhandled completion suggestion: %{label: ":utc_datetime_usec", priority: 0, type: :generic, kind: :type_parameter, snippet: nil, documentation: "Built-in Ecto type.\n\n* **Elixir type:** `DateTime`\n", detail: "Ecto type", insert_text: "utc_datetime_usec"}
+2024-01-15T11:38:52.216285+01:00 warning: Unhandled completion suggestion: %{label: ":binary_id", priority: 0, type: :generic, kind: :type_parameter, snippet: nil, documentation: "Built-in Ecto type.\n\n* **Elixir type:** `binary`\n* **Literal syntax:** `<<int, int, int, ...>>`", detail: "Ecto type", insert_text: "binary_id"}
+2024-01-15T11:38:52.520648+01:00 warning: Unhandled completion suggestion: %{label: ":decimal", priority: 0, type: :generic, kind: :type_parameter, snippet: nil, documentation: "Built-in Ecto type.\n\n* **Elixir type:** `Decimal`\n", detail: "Ecto type", insert_text: "decimal"}
+2024-01-15T11:38:52.623663+01:00 warning: Unhandled completion suggestion: %{label: ":decimal", priority: 0, type: :generic, kind: :type_parameter, snippet: nil, documentation: "Built-in Ecto type.\n\n* **Elixir type:** `Decimal`\n", detail: "Ecto type", insert_text: "decimal"}
+2024-01-15T11:38:52.724330+01:00 warning: Unhandled completion suggestion: %{label: ":decimal", priority: 0, type: :generic, kind: :type_parameter, snippet: nil, documentation: "Built-in Ecto type.\n\n* **Elixir type:** `Decimal`\n", detail: "Ecto type", insert_text: "decimal"}
+2024-01-15T11:38:52.918494+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo/movie.ex error was false
+2024-01-15T11:38:52.918930+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo error was false
+2024-01-15T11:38:52.919232+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T11:38:52.919438+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:38:52.920496+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:38:52.970328+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:38:53.166460+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:39:10.258925+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T11:39:10.638045+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:39:10.638456+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:39:10.638767+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:39:10.639073+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:39:10.639347+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:39:10.639779+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:39:10.699928+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:39:10.923064+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:39:25.104834+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:39:26.943637+01:00 info: Plugins found 0 results in 0.019 ms
+2024-01-15T11:39:28.050198+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo.ex error was false
+2024-01-15T11:39:28.050586+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T11:39:28.051029+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:39:28.051845+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:39:28.111095+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:39:28.322049+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T11:39:34.787367+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:39:34.787886+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:39:34.788262+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:39:34.788500+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:39:34.788957+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:39:34.789479+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:39:34.844310+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:39:35.056926+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:39:52.499587+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:39:56.072458+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:39:56.816909+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/layouts/app.html.heex error was false
+2024-01-15T11:39:56.817104+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/layouts error was false
+2024-01-15T11:39:56.817219+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T11:39:56.817334+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:39:56.817535+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:39:56.817790+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:39:56.859977+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:39:57.095205+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T11:42:03.178388+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:42:03.945326+01:00 info: Plugins found 0 results in 0.036 ms
+2024-01-15T11:42:07.415904+01:00 info: Plugins found 0 results in 0.029 ms
+2024-01-15T11:42:08.527905+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:08.528178+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:08.528362+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:08.528513+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:08.528717+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:08.529235+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:08.580060+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:42:08.795249+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:42:10.181069+01:00 info: Plugins found 0 results in 0.057 ms
+2024-01-15T11:42:10.437035+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:42:13.140840+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T11:42:14.672451+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T11:42:15.695235+01:00 info: Plugins found 0 results in 0.028 ms
+2024-01-15T11:42:16.613452+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:42:18.175177+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:18.175505+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:18.175866+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:18.176117+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:18.176377+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:18.177015+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:18.232465+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:42:18.449434+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:42:21.460637+01:00 info: Plugins found 0 results in 0.031 ms
+2024-01-15T11:42:21.473180+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:21.473455+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:21.473727+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:21.473957+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:21.474166+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:21.474801+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:21.535379+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:42:21.768035+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:42:24.982257+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:42:26.007404+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:26.007949+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:26.008328+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:26.008682+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:26.009104+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:26.009773+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:26.063278+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:42:26.257651+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:42:28.810194+01:00 info: Plugins found 0 results in 0.017 ms
+2024-01-15T11:42:29.424122+01:00 info: Plugins found 0 results in 0.017 ms
+2024-01-15T11:42:29.918048+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:29.918279+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:29.918459+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:29.918587+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:29.918694+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:29.919086+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:29.960969+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:42:30.190369+01:00 info: Plugins found 0 results in 0.019 ms
+2024-01-15T11:42:34.423606+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:42:34.934943+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:42:35.333843+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:35.334264+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:35.334552+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:35.334789+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:35.335033+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:35.335622+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:35.391892+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:42:35.598671+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:42:39.781616+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T11:42:40.334876+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:40.335249+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:40.335606+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:40.335898+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:40.336167+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:40.336778+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:40.393777+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:42:40.600374+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:42:47.281994+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:42:47.505414+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:47.505991+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:47.506295+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:47.506530+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:47.506839+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:47.507468+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:47.562460+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:42:47.794254+01:00 info: Plugins found 0 results in 0.041 ms
+2024-01-15T11:42:49.342762+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:49.342985+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:49.343215+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:49.343430+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:49.343650+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:49.344090+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:49.392779+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:42:49.632016+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:42:51.207012+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:51.207342+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:51.207631+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:51.207820+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:51.207960+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:51.208661+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:51.265550+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:42:51.970189+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:51.970620+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:51.970879+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:51.971059+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:51.971267+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:51.971834+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:52.029727+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:42:52.236685+01:00 info: Plugins found 0 results in 0.028 ms
+2024-01-15T11:42:54.954279+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:54.954507+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:54.954632+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:54.954763+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:54.954896+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:54.955229+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:54.994378+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:42:55.247228+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T11:42:57.136235+01:00 info: Plugins found 0 results in 0.016 ms
+2024-01-15T11:42:57.678749+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:42:57.679217+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:42:57.679552+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:42:57.679881+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:42:57.680046+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:42:57.680770+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:42:57.735302+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:42:57.952866+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:43:01.676788+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:43:01.718987+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:43:01.719172+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:43:01.719337+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:43:01.719494+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:43:01.719657+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:43:01.719989+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:43:01.763205+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:43:01.985374+01:00 info: Plugins found 0 results in 0.08 ms
+2024-01-15T11:43:08.108849+01:00 info: Plugins found 0 results in 0.025 ms
+2024-01-15T11:43:08.234052+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:43:08.234346+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:43:08.234529+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:43:08.234719+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:43:08.234882+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:43:08.235549+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:43:08.293662+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:43:08.518888+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T11:43:17.801594+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:43:19.337916+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:43:19.338460+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:43:19.338819+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:43:19.339149+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:43:19.339403+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:43:19.339936+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:43:19.401000+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:43:19.588327+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:43:31.728419+01:00 info: Plugins found 0 results in 0.018 ms
+2024-01-15T11:43:33.925865+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T11:43:33.944864+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:43:33.945226+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:43:33.945559+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:43:33.945863+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:43:33.946107+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:43:33.946641+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:43:34.001557+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:43:34.233016+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:43:36.351003+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:43:36.351207+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:43:36.351395+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:43:36.351561+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:43:36.351669+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:43:36.351902+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:43:36.398577+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:43:36.630726+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T11:44:42.580701+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:44:44.368884+01:00 info: Plugins found 0 results in 0.025 ms
+2024-01-15T11:44:45.597099+01:00 info: Plugins found 0 results in 0.03 ms
+2024-01-15T11:44:47.231955+01:00 info: Plugins found 0 results in 0.024 ms
+2024-01-15T11:44:48.000620+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T11:44:49.635727+01:00 info: Plugins found 0 results in 0.029 ms
+2024-01-15T11:44:49.994496+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T11:44:52.904147+01:00 info: Plugins found 0 results in 0.017 ms
+2024-01-15T11:44:54.692084+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T11:44:55.025988+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:44:55.026305+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:44:55.026606+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:44:55.026863+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:44:55.027088+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:44:55.027700+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:44:55.082643+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:44:55.305077+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:45:11.830929+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:45:13.311973+01:00 info: Plugins found 0 results in 0.019 ms
+2024-01-15T11:45:29.175074+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:45:31.074984+01:00 info: Plugins found 0 results in 0.017 ms
+2024-01-15T11:45:31.250575+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/show.html.heex error was false
+2024-01-15T11:45:31.251120+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:45:31.251474+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:45:31.251734+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:45:31.251965+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:45:31.252654+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:45:31.315428+01:00 info: Plugins found 0 results in 0.061 ms
+2024-01-15T11:45:31.330668+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T11:45:41.023074+01:00 info: Plugins found 0 results in 0.018 ms
+2024-01-15T11:45:41.840915+01:00 info: Plugins found 0 results in 0.019 ms
+2024-01-15T11:45:43.015423+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:45:43.579977+01:00 info: Plugins found 0 results in 0.031 ms
+2024-01-15T11:45:45.111170+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:45:45.979956+01:00 info: Plugins found 0 results in 0.026 ms
+2024-01-15T11:45:47.817719+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T11:45:48.432364+01:00 info: Plugins found 0 results in 0.024 ms
+2024-01-15T11:45:51.647156+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:45:52.619499+01:00 info: Plugins found 0 results in 0.032 ms
+2024-01-15T11:45:54.507877+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:45:55.988917+01:00 info: Plugins found 0 results in 0.016 ms
+2024-01-15T11:45:56.755508+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:45:57.371422+01:00 info: Plugins found 0 results in 0.028 ms
+2024-01-15T11:45:58.089938+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T11:45:59.317155+01:00 info: Plugins found 0 results in 0.024 ms
+2024-01-15T11:45:59.625391+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T11:46:00.082398+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/show.html.heex error was false
+2024-01-15T11:46:00.083117+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:46:00.083523+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:46:00.083785+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:46:00.084023+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:46:00.084519+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:46:00.140864+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:46:00.342464+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T11:46:31.812500+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:46:32.224340+01:00 info: Plugins found 0 results in 0.032 ms
+2024-01-15T11:46:33.349336+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T11:46:34.933776+01:00 info: Plugins found 0 results in 0.024 ms
+2024-01-15T11:46:36.409806+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/show.html.heex error was false
+2024-01-15T11:46:36.410300+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:46:36.410563+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:46:36.410843+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:46:36.411043+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:46:36.411767+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:46:36.467237+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:46:36.668990+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:46:46.978783+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:46:49.684105+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:46:49.876183+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/form_component.ex error was false
+2024-01-15T11:46:49.876402+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:46:49.876566+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:46:49.876650+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:46:49.876866+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:46:49.877173+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:46:49.928530+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:46:50.143953+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:47:31.792862+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/show.html.heex error was false
+2024-01-15T11:47:31.793209+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:47:31.793497+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:47:31.793728+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:47:31.793962+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:47:31.794511+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:47:31.811007+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T11:47:32.068780+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:47:42.983747+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T11:49:04.899037+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:49:09.642981+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:49:10.309011+01:00 info: Plugins found 0 results in 0.028 ms
+2024-01-15T11:49:11.687090+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:49:13.067165+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T11:49:15.568717+01:00 info: Plugins found 0 results in 0.03 ms
+2024-01-15T11:49:16.336393+01:00 info: Plugins found 0 results in 0.018 ms
+2024-01-15T11:49:17.205572+01:00 info: Plugins found 0 results in 0.021 ms
+2024-01-15T11:49:17.872604+01:00 info: Plugins found 0 results in 0.03 ms
+2024-01-15T11:49:18.181883+01:00 info: Plugins found 0 results in 0.026 ms
+2024-01-15T11:49:18.668681+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:49:18.668893+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:49:18.669035+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:49:18.669197+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:49:18.669350+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:49:18.669697+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:49:18.712121+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:49:18.947704+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:49:27.771810+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:49:30.171274+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:49:30.171410+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:49:30.171572+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:49:30.171678+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:49:30.171790+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:49:30.172042+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:49:30.210290+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:49:30.424893+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:49:40.475981+01:00 info: Plugins found 0 results in 0.026 ms
+2024-01-15T11:49:40.937184+01:00 info: Plugins found 0 results in 0.021 ms
+2024-01-15T11:49:41.246420+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T11:49:42.219256+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T11:49:43.851735+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:49:44.215431+01:00 info: Plugins found 0 results in 0.03 ms
+2024-01-15T11:49:44.832342+01:00 info: Plugins found 0 results in 0.03 ms
+2024-01-15T11:49:45.031640+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:49:45.032075+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:49:45.032510+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:49:45.032907+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:49:45.033169+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:49:45.033853+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:49:45.090037+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:49:45.293320+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:49:47.745306+01:00 info: Plugins found 0 results in 0.025 ms
+2024-01-15T11:49:52.945509+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:49:52.945699+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:49:52.945831+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:49:52.945946+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:49:52.946053+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:49:52.946325+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:49:52.985122+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:49:53.203682+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:49:59.121908+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T11:49:59.776089+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:49:59.776407+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:49:59.776629+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:49:59.777000+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:49:59.777206+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:49:59.777840+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:49:59.840104+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:50:00.040523+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:50:02.489782+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:50:03.820580+01:00 info: Plugins found 0 results in 0.03 ms
+2024-01-15T11:50:04.130049+01:00 info: Plugins found 0 results in 0.037 ms
+2024-01-15T11:50:04.642340+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T11:50:04.983699+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:50:04.984181+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:50:04.984466+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:50:04.984677+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:50:04.984986+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:50:04.985568+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:50:05.040765+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:50:05.255116+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:50:20.148008+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:50:20.403881+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:50:22.599220+01:00 info: Plugins found 0 results in 0.021 ms
+2024-01-15T11:50:23.164497+01:00 info: Plugins found 0 results in 0.028 ms
+2024-01-15T11:50:24.646105+01:00 info: Plugins found 0 results in 0.023 ms
+2024-01-15T11:50:25.312746+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T11:50:25.774535+01:00 info: Plugins found 0 results in 0.045 ms
+2024-01-15T11:50:26.389418+01:00 info: Plugins found 0 results in 0.022 ms
+2024-01-15T11:50:28.026068+01:00 info: Plugins found 0 results in 0.044 ms
+2024-01-15T11:50:30.270802+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:50:31.739885+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.ex error was false
+2024-01-15T11:50:31.740189+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:50:31.740475+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:50:31.740706+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:50:31.740930+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:50:31.741536+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:50:31.799054+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:50:32.005848+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T11:50:41.443983+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T11:50:41.802154+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:50:42.876242+01:00 info: Plugins found 0 results in 0.03 ms
+2024-01-15T11:50:43.797569+01:00 info: Plugins found 0 results in 0.028 ms
+2024-01-15T11:50:45.281281+01:00 info: Plugins found 0 results in 0.025 ms
+2024-01-15T11:50:50.083946+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo.ex error was false
+2024-01-15T11:50:50.084210+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T11:50:50.084407+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:50:50.084979+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:50:50.184519+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:50:50.384826+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:51:03.901249+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T11:51:07.116225+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T11:51:20.732664+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo.ex error was false
+2024-01-15T11:51:20.732948+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T11:51:20.733101+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:51:20.733654+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:51:20.875240+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:51:21.090540+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:51:25.477961+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:51:25.785461+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T11:51:28.308893+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo.ex error was false
+2024-01-15T11:51:28.309108+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T11:51:28.309478+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:51:28.309954+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:51:28.397054+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:51:28.591574+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:51:37.825147+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T11:51:39.764834+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T11:51:45.732622+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:51:46.753873+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:51:47.471931+01:00 info: Plugins found 0 results in 0.065 ms
+2024-01-15T11:51:49.109392+01:00 info: Plugins found 0 results in 0.904 ms
+2024-01-15T11:51:49.290280+01:00 warning: ** (ErlangError) Erlang error: "FunctionClauseError during metadata build: no function clause matching in :elixir_aliases.do_concat/2", (elixir 1.15.7) src/elixir_aliases.erl:150: :elixir_aliases.do_concat([{:from, [line: 25, column: 13], [{:in, [line: 25, column: 24], [{:entry, [line: 25, column: 18], nil}, {:__aliases__, [line: 25, column: 27], [:Movie]}]}, [where: {:fragment, [line: 27, column: 9], ["ARRAY[?, ?] &@~ (?, ARRAY[5, 1], 'entries_pgroonga_index')::pgroonga_full_text_search_condition", {{:., [line: 29, column: 16], [{:entry, [line: 29, column: 11], nil}, :title]}, [no_parens: true, line: 29, column: 17], []}, {{:., [line: 30, column: 16], [{:entry, [line: 30, column: 11], nil}, :description]}, [no_parens: true, line: 30, column: 17], []}, {:^, [line: 31, column: 11], [{:query, [line: 31, column: 12], nil}]}]}, limit: 20, order_by: {:fragment, [line: 34, column: 17], ["pgroonga_score(tableoid, ctid) DESC"]}]]}, :R], "Elixir"), (elixir 1.15.7) src/elixir_aliases.erl:138: :elixir_aliases.concat/1, (lx_elixir_sense 2.0.0) lib/elixir_sense/core/state.ex:1260: LXElixirSense.Core.State.expand_alias/2, (lx_elixir_sense 2.0.0) lib/elixir_sense/core/metadata_builder.ex:1564: LXElixirSense.Core.MetadataBuilder.get_binding_type/2, (lx_elixir_sense 2.0.0) lib/elixir_sense/core/metadata_builder.ex:1281: LXElixirSense.Core.MetadataBuilder.post/2, (lx_elixir_sense 2.0.0) lib/elixir_sense/core/metadata_builder.ex:56: anonymous fn/3 in LXElixirSense.Core.MetadataBuilder.safe_call/1, (elixir 1.15.7) lib/macro.ex:668: Macro.do_traverse/4, (stdlib 5.1.1) lists.erl:1706: :lists.mapfoldl_1/3
+2024-01-15T11:51:49.724431+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:51:50.287127+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T11:51:50.851986+01:00 info: Plugins found 0 results in 0.029 ms
+2024-01-15T11:51:52.536411+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T11:51:53.145894+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo.ex error was false
+2024-01-15T11:51:53.146286+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T11:51:53.146495+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:51:53.147011+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:51:53.236700+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:51:53.455492+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:52:33.035185+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T11:52:33.962260+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/priv/repo/migrations/20240115105230_add_search_index_to_movies.exs error was false
+2024-01-15T11:52:33.963389+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024/priv/repo/migrations
+2024-01-15T11:52:34.005469+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:52:34.261644+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:52:40.384542+01:00 info: Plugins found 0 results in 0.016 ms
+2024-01-15T11:52:40.443198+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/priv/repo/migrations/20240115105230_add_search_index_to_movies.exs error was false
+2024-01-15T11:52:40.444040+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024/priv/repo/migrations
+2024-01-15T11:52:40.504456+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:52:40.743215+01:00 info: Plugins found 0 results in 0.016 ms
+2024-01-15T11:52:44.527107+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/priv/repo/migrations/20240115105230_add_search_index_to_movies.exs error was false
+2024-01-15T11:52:44.527974+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024/priv/repo/migrations
+2024-01-15T11:52:44.550806+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:52:44.823603+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:55:14.068707+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/priv/repo/migrations/20240115105230_add_search_index_to_movies.exs error was false
+2024-01-15T11:55:14.070012+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024/priv/repo/migrations
+2024-01-15T11:55:14.092481+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T11:55:14.329710+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:55:40.346846+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:55:42.664855+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:55:42.665065+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:55:42.665218+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:55:42.665339+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:55:42.665508+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:55:42.665814+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:55:42.712182+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:55:42.948875+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:55:57.279298+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T11:55:58.659013+01:00 info: Plugins found 0 results in 0.026 ms
+2024-01-15T11:55:59.172955+01:00 info: Plugins found 0 results in 0.026 ms
+2024-01-15T11:56:00.247918+01:00 info: Plugins found 0 results in 0.025 ms
+2024-01-15T11:56:00.761355+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T11:56:01.398960+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T11:56:01.399197+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:56:01.399404+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:56:01.399537+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:56:01.399659+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:56:01.400726+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:56:01.451714+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:56:01.681331+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:56:03.008349+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:56:03.266203+01:00 info: Plugins found 0 results in 0.025 ms
+2024-01-15T11:56:04.028125+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.ex error was false
+2024-01-15T11:56:04.028324+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:56:04.028439+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:56:04.028551+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:56:04.028680+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:56:04.028957+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:56:04.072290+01:00 info: Plugins found 0 results in 0.017 ms
+2024-01-15T11:56:04.287447+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T11:56:44.891839+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:56:47.271061+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.ex error was false
+2024-01-15T11:56:47.271326+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:56:47.271572+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:56:47.271734+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:56:47.271923+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:56:47.272349+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:56:47.333319+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:56:47.544673+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:57:08.558673+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T11:57:09.733166+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:57:11.416817+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:57:13.076715+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.ex error was false
+2024-01-15T11:57:13.077069+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:57:13.077321+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:57:13.077523+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:57:13.077685+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:57:13.078211+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:57:13.134509+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:57:13.357007+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T11:57:29.861303+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo.ex error was false
+2024-01-15T11:57:29.861574+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T11:57:29.861820+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:57:29.862466+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:57:29.905482+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:57:30.136940+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:57:50.645096+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:57:50.803148+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.ex error was false
+2024-01-15T11:57:50.803367+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:57:50.803492+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:57:50.803618+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:57:50.803743+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:57:50.804028+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:57:50.849864+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T11:57:51.054787+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:59:52.055350+01:00 info: Plugins found 0 results in 0.041 ms
+2024-01-15T11:59:52.609534+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.ex error was false
+2024-01-15T11:59:52.609921+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T11:59:52.610283+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T11:59:52.610634+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T11:59:52.610931+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T11:59:52.612023+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T11:59:52.666285+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T11:59:52.871804+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:00:16.237907+01:00 info: Plugins found 0 results in 0.028 ms
+2024-01-15T12:00:17.465212+01:00 info: Plugins found 0 results in 0.016 ms
+2024-01-15T12:00:17.468366+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:00:17.468604+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:00:17.468844+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:00:17.469109+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:00:17.469431+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:00:17.469957+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:00:17.527942+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:00:17.721390+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:00:21.036674+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:00:21.957842+01:00 info: Plugins found 0 results in 0.03 ms
+2024-01-15T12:00:22.624552+01:00 info: Plugins found 0 results in 0.032 ms
+2024-01-15T12:00:23.749335+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:00:25.638990+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T12:00:27.631297+01:00 info: Plugins found 0 results in 0.022 ms
+2024-01-15T12:00:28.500037+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T12:00:29.419079+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:00:30.238126+01:00 info: Plugins found 0 results in 0.022 ms
+2024-01-15T12:00:32.841196+01:00 info: Plugins found 0 results in 0.022 ms
+2024-01-15T12:00:33.251759+01:00 info: Plugins found 0 results in 0.019 ms
+2024-01-15T12:00:34.274254+01:00 info: Plugins found 0 results in 0.022 ms
+2024-01-15T12:00:35.272151+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:00:35.272547+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:00:35.272948+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:00:35.273181+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:00:35.273410+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:00:35.274058+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:00:35.330949+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:00:35.550629+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:00:56.163481+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:00:57.443116+01:00 info: Plugins found 0 results in 0.029 ms
+2024-01-15T12:00:57.717185+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:00:57.717814+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:00:57.718068+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:00:57.718327+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:00:57.718607+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:00:57.719462+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:00:57.784148+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:00:58.005586+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:01:11.296144+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:01:11.296399+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:01:11.296630+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:01:11.296835+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:01:11.296948+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:01:11.297211+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:01:11.345023+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:01:11.573879+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:01:14.124950+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:01:14.193656+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:01:14.193936+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:01:14.194071+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:01:14.194285+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:01:14.194385+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:01:14.194836+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:01:14.247390+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:01:14.483119+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:01:19.737119+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:01:20.300886+01:00 info: Plugins found 0 results in 0.026 ms
+2024-01-15T12:01:21.221323+01:00 info: Plugins found 0 results in 0.018 ms
+2024-01-15T12:01:22.344796+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:01:24.138914+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:01:24.139140+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:01:24.139280+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:01:24.139420+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:01:24.139553+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:01:24.139948+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:01:24.182693+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:01:24.437811+01:00 info: Plugins found 0 results in 0.023 ms
+2024-01-15T12:01:27.600788+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:01:27.800328+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:01:27.800702+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:01:27.800995+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:01:27.801315+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:01:27.801539+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:01:27.802023+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:01:27.856360+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:01:28.062234+01:00 info: Plugins found 0 results in 0.016 ms
+2024-01-15T12:01:31.992037+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T12:01:33.065359+01:00 info: Plugins found 0 results in 0.016 ms
+2024-01-15T12:01:33.474241+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:01:34.376416+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:01:34.376995+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:01:34.377289+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:01:34.377488+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:01:34.377732+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:01:34.378349+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:01:34.439183+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:01:34.647935+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:01:37.965843+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T12:01:38.487113+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:01:38.487760+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:01:38.488129+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:01:38.488394+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:01:38.488753+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:01:38.489492+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:01:38.547856+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:01:38.783806+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:01:49.853796+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:01:50.576781+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:01:50.577386+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:01:50.577694+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:01:50.578070+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:01:50.578317+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:01:50.579027+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:01:50.637826+01:00 info: Plugins found 0 results in 0.017 ms
+2024-01-15T12:01:50.875250+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:02:03.116579+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:02:03.139606+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:02:03.139865+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:02:03.140062+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:02:03.140235+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:02:03.140390+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:02:03.140715+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:02:03.188622+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:02:03.423287+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:02:05.049762+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:02:05.049955+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:02:05.050092+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:02:05.050214+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:02:05.050343+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:02:05.050630+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:02:05.124201+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T12:02:05.311175+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:02:07.007530+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:02:07.007970+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:02:07.008262+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:02:07.008543+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:02:07.008766+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:02:07.009330+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:02:07.074669+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:02:07.257760+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:02:09.298952+01:00 info: Plugins found 0 results in 0.016 ms
+2024-01-15T12:02:09.386269+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:02:09.386547+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:02:09.386706+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:02:09.386851+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:02:09.386994+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:02:09.387437+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:02:09.448539+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:02:09.657247+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:02:10.934261+01:00 info: Plugins found 0 results in 0.023 ms
+2024-01-15T12:02:11.906650+01:00 info: Plugins found 0 results in 0.025 ms
+2024-01-15T12:02:12.566297+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:02:12.566855+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:02:12.567272+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:02:12.567586+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:02:12.567896+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:02:12.568528+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:02:12.628766+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:02:12.826346+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:02:15.123380+01:00 info: Plugins found 0 results in 0.037 ms
+2024-01-15T12:02:17.268938+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:02:18.291266+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T12:02:20.000990+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:02:20.001237+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:02:20.001393+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:02:20.001509+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:02:20.001637+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:02:20.001914+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:02:20.042453+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:02:20.281368+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:02:23.078373+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:02:23.078774+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:02:23.079076+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:02:23.079288+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:02:23.079562+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:02:23.080115+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:02:23.102313+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:02:23.343610+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:02:25.232150+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:02:28.448304+01:00 info: Plugins found 0 results in 0.036 ms
+2024-01-15T12:02:29.726084+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T12:02:30.341922+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T12:02:30.803959+01:00 info: Plugins found 0 results in 0.024 ms
+2024-01-15T12:02:31.877164+01:00 info: Plugins found 0 results in 0.019 ms
+2024-01-15T12:02:33.821970+01:00 info: Plugins found 0 results in 0.021 ms
+2024-01-15T12:02:34.894294+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:02:36.375383+01:00 info: Plugins found 0 results in 0.019 ms
+2024-01-15T12:02:36.690020+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:02:36.690546+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:02:36.690840+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:02:36.691105+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:02:36.691287+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:02:36.691958+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:02:36.754779+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:02:36.988815+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:02:52.242192+01:00 info: Plugins found 0 results in 0.028 ms
+2024-01-15T12:02:52.936711+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.html.heex error was false
+2024-01-15T12:02:52.937274+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:02:52.937578+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:02:52.937874+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:02:52.938111+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:02:52.938761+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:02:53.000678+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:02:53.212699+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:03:39.883953+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:03:40.293190+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:03:41.212707+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:03:41.521246+01:00 info: Plugins found 0 results in 0.017 ms
+2024-01-15T12:03:43.613588+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:03:44.635518+01:00 info: Plugins found 0 results in 0.017 ms
+2024-01-15T12:03:45.502810+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:03:46.371064+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:03:46.831615+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:03:48.464989+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:03:49.282610+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:03:50.303865+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:03:50.815391+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:03:51.530392+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:03:54.642638+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:03:55.154831+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:03:55.615683+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:03:56.178468+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:03:56.944791+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:03:56.970698+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:03:56.971016+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:03:56.971225+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:03:56.971471+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:03:56.971952+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:03:57.105959+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:03:57.354215+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:04:08.576120+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:04:11.228978+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:04:11.842691+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:04:12.712122+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:04:15.161938+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:04:15.775280+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:04:16.382867+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:04:16.383426+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:04:16.383751+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:04:16.384018+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:04:16.384686+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:04:16.457828+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:04:16.643088+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:04:26.214686+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:04:26.214895+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:04:26.215044+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:04:26.215149+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:04:26.215409+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:04:26.271757+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:04:26.487199+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:04:37.045036+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:04:38.168823+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:04:38.528002+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:04:40.468774+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:04:40.725821+01:00 info: Plugins found 0 results in 0.016 ms
+2024-01-15T12:04:41.237356+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:04:42.195094+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:04:42.195347+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:04:42.195476+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:04:42.195652+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:04:42.196000+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:04:42.257161+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:04:42.462203+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:05:02.863759+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:05:02.935920+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:05:02.936064+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:05:02.936177+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:05:02.936304+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:05:02.936578+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:05:03.018941+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:05:03.222146+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:09:05.654046+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:09:05.654184+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:09:05.654356+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:09:05.654497+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:09:05.654940+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:09:05.714844+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:09:05.944461+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:09:10.483922+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:09:11.200411+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:09:11.200843+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:09:11.201092+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:09:11.201372+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:09:11.201863+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:09:11.269233+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:09:11.454710+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:10:02.968357+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:10:03.685436+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:10:06.077454+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:10:06.077727+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:10:06.077925+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:10:06.078054+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:10:06.078401+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:10:06.135458+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:10:06.338454+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:10:27.147110+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:10:28.067568+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T12:10:30.618716+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:10:30.618973+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:10:30.619139+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:10:30.619319+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:10:30.619688+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:10:30.694727+01:00 info: Plugins found 0 results in 0.031 ms
+2024-01-15T12:10:30.874068+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:11:40.699575+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:11:40.955181+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:11:42.079374+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:11:44.120723+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:11:45.090941+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:11:45.124608+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:11:45.124743+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:11:45.124879+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:11:45.125017+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:11:45.125245+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:11:45.173755+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:11:45.400329+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:11:57.029850+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:11:57.337165+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:11:57.747347+01:00 info: Plugins found 0 results in 0.016 ms
+2024-01-15T12:11:58.717835+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:11:59.229505+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:12:00.163660+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:12:00.163883+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:12:00.164113+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:12:00.164296+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:12:00.164698+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:12:00.228856+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:12:00.454580+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:12:07.698270+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:12:07.918311+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:12:07.918500+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:12:07.918666+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:12:07.918844+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:12:07.919192+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:12:07.984489+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:12:08.209129+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:12:47.367907+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:12:47.368180+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:12:47.368341+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:12:47.368480+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:12:47.368794+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:12:47.418800+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:12:47.634047+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:12:50.899082+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:12:51.703936+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:12:51.704154+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:12:51.704270+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:12:51.704356+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:12:51.704603+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:12:51.759010+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:12:51.971323+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:12:54.631057+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:12:54.631261+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:12:54.631358+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:12:54.631472+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:12:54.631805+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:12:54.714905+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:12:54.930422+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:13:38.640742+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:13:39.305310+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:13:42.978342+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:13:43.144562+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:13:43.145083+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:13:43.145362+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:13:43.145628+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:13:43.146093+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:13:43.212632+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:13:43.438462+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:13:50.266454+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:13:50.266708+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:13:50.266920+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:13:50.267068+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:13:50.267340+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:13:50.319167+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:13:50.530793+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:13:55.479063+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:13:55.990404+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:13:57.775794+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:13:58.389654+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:14:01.094338+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:14:01.111866+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:14:01.112079+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:14:01.112208+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:14:01.112348+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:14:01.112693+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:14:01.168036+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:14:01.401342+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:14:03.340254+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:14:16.246665+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:14:18.033202+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:14:18.513816+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:14:18.514201+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:14:18.514415+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:14:18.514605+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:14:18.515036+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:14:18.579450+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:14:18.799322+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:14:51.491977+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:14:51.962239+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:14:51.962502+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:14:51.962657+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:14:51.962769+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:14:51.963112+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:14:52.024864+01:00 info: Plugins found 0 results in 0.019 ms
+2024-01-15T12:14:52.257778+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:15:10.264262+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:15:10.264544+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:15:10.264643+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:15:10.264741+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:15:10.265865+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:15:10.319416+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:15:10.518297+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:15:12.865501+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:15:13.156645+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:15:13.156775+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:15:13.156868+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:15:13.157012+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:15:13.157277+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:15:13.211330+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:15:13.426873+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:15:15.842202+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:15:15.842340+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:15:15.842432+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:15:15.842506+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:15:15.842706+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:15:15.895562+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:15:16.133002+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:15:17.612894+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:15:17.920110+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:15:17.920572+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:15:17.920943+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:15:17.921297+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:15:17.921976+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:15:17.994643+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:15:18.175124+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:15:26.131827+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:15:27.918047+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:15:29.653062+01:00 info: Plugins found 0 results in 0.013 ms
+2024-01-15T12:15:30.062175+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:15:30.472915+01:00 info: Plugins found 0 results in 0.017 ms
+2024-01-15T12:15:31.842092+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:15:31.842427+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:15:31.842755+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:15:31.842933+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:15:31.843479+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:15:31.914295+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:15:32.106089+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:15:35.043344+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components/core_components.ex error was false
+2024-01-15T12:15:35.043517+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/components error was false
+2024-01-15T12:15:35.043611+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:15:35.043695+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:15:35.044096+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:15:35.094221+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:15:35.320267+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:15:53.681039+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T12:15:54.651176+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:15:55.825956+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:15:56.900436+01:00 info: Plugins found 0 results in 0.028 ms
+2024-01-15T12:15:58.482758+01:00 info: Plugins found 0 results in 0.016 ms
+2024-01-15T12:15:59.760776+01:00 info: Plugins found 0 results in 0.047 ms
+2024-01-15T12:16:00.579709+01:00 info: Plugins found 0 results in 0.025 ms
+2024-01-15T12:16:01.143391+01:00 info: Plugins found 0 results in 0.027 ms
+2024-01-15T12:16:01.859788+01:00 info: Plugins found 0 results in 0.025 ms
+2024-01-15T12:16:02.563904+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.ex error was false
+2024-01-15T12:16:02.564099+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:16:02.564183+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:16:02.564323+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:16:02.564441+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:16:02.564914+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:16:02.624185+01:00 info: Plugins found 0 results in 0.014 ms
+2024-01-15T12:16:02.830939+01:00 info: Plugins found 0 results in 0.011 ms
+2024-01-15T12:16:05.089468+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/index.ex error was false
+2024-01-15T12:16:05.089695+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T12:16:05.089856+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T12:16:05.090074+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T12:16:05.090259+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:16:05.090568+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:16:05.132863+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:16:05.383629+01:00 info: Plugins found 0 results in 0.017 ms
+2024-01-15T12:16:38.180564+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:16:39.254400+01:00 info: Plugins found 0 results in 0.028 ms
+2024-01-15T12:16:40.991016+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:16:43.440098+01:00 info: Plugins found 0 results in 0.01 ms
+2024-01-15T12:16:45.331231+01:00 info: Plugins found 0 results in 0.029 ms
+2024-01-15T12:16:47.422995+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T12:16:47.834853+01:00 info: Plugins found 0 results in 0.031 ms
+2024-01-15T12:16:49.273360+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo.ex error was false
+2024-01-15T12:16:49.273851+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T12:16:49.274063+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:16:49.274661+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:16:49.334048+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:16:49.570063+01:00 info: Plugins found 0 results in 0.007 ms
+2024-01-15T12:16:54.012795+01:00 info: Plugins found 0 results in 0.028 ms
+2024-01-15T12:16:54.039403+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo.ex error was false
+2024-01-15T12:16:54.039758+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T12:16:54.039959+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:16:54.040568+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:16:54.101419+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:16:54.320855+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:17:03.247726+01:00 info: Plugins found 0 results in 0.015 ms
+2024-01-15T12:17:05.700014+01:00 info: Plugins found 0 results in 0.03 ms
+2024-01-15T12:17:05.711445+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo.ex error was false
+2024-01-15T12:17:05.711856+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T12:17:05.712195+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:17:05.712829+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:17:05.770873+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:17:06.007826+01:00 info: Plugins found 0 results in 0.022 ms
+2024-01-15T12:17:10.761795+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies/movie_repo.ex error was false
+2024-01-15T12:17:10.762052+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies error was false
+2024-01-15T12:17:10.762173+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T12:17:10.762533+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T12:17:10.814283+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T12:17:11.058815+01:00 info: Plugins found 0 results in 0.008 ms
