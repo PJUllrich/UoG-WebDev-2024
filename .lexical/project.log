@@ -3943,3 +3943,20 @@
 2024-01-15T14:34:59.584518+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
 2024-01-15T14:34:59.608632+01:00 info: Plugins found 0 results in 0.012 ms
 2024-01-15T14:34:59.846566+01:00 info: Plugins found 0 results in 0.02 ms
+2024-01-15T14:35:50.237442+01:00 info: Plugins found 0 results in 0.008 ms
+2024-01-15T14:35:51.209375+01:00 info: Plugins found 0 results in 0.03 ms
+2024-01-15T14:35:52.233226+01:00 info: Plugins found 0 results in 0.029 ms
+2024-01-15T14:35:52.796257+01:00 info: Plugins found 0 results in 0.018 ms
+2024-01-15T14:35:53.769183+01:00 info: Plugins found 0 results in 0.029 ms
+2024-01-15T14:35:54.078948+01:00 info: Plugins found 0 results in 0.026 ms
+2024-01-15T14:35:54.834577+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/components/pagination.ex error was false
+2024-01-15T14:35:54.834901+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live/components error was false
+2024-01-15T14:35:54.835083+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live/movie_live error was false
+2024-01-15T14:35:54.835266+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web/live error was false
+2024-01-15T14:35:54.835448+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib/movies_web error was false
+2024-01-15T14:35:54.835674+01:00 info: No formatter found in /Users/peterullrich/Development/UoG-WebDev-2024/lib error was false
+2024-01-15T14:35:54.836160+01:00 info: found formatter in /Users/peterullrich/Development/UoG-WebDev-2024
+2024-01-15T14:35:54.926076+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T14:35:55.100254+01:00 info: Plugins found 0 results in 0.012 ms
+2024-01-15T14:36:23.777319+01:00 info: Plugins found 0 results in 0.009 ms
+2024-01-15T14:36:24.798521+01:00 info: Plugins found 0 results in 0.008 ms

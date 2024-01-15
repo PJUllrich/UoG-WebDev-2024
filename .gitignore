@@ -25,6 +25,8 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 movies-*.tar
 
+.lexical/
+
 # Ignore assets that are produced by build tools.
 /priv/static/assets/
 
@@ -34,4 +36,3 @@ movies-*.tar
 # In case you use Node.js/npm, you want to ignore these.
 npm-debug.log
 /assets/node_modules/
-

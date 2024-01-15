@@ -6,7 +6,7 @@ defmodule MoviesWeb.MovieLive.PaginationComponent do
   def show(assigns) do
     ~H"""
     <% total_pages = calc_total_pages(@opts.total_count, @opts.page_size) %>
-    <nav class="isolate inline-flex -space-x-px rounded-md shadow-sm" aria-label="Pagination">
+    <nav :if={total_pages > 0} class="isolate inline-flex -space-x-px rounded-md shadow-sm" aria-label="Pagination">
       <.link
         navigate={~p"/?#{Helpers.query_params(@opts, page: max(1, @opts.page - 1))}"}
         class="relative inline-flex justify-center items-center rounded-l-md px-2 py-2 text-black ring-1 ring-inset ring-gray-500 hover:bg-gray-200 focus:z-20 focus:outline-offset-0"
