@@ -4,9 +4,36 @@ defmodule MoviesWeb.MovieLiveTest do
   import Phoenix.LiveViewTest
   import Movies.MovieRepoFixtures
 
-  @create_attrs %{description: "some description", title: "some title", year: 42, rating: "some rating", review_user_count: 42, review_user_score: 120.5, review_meta_score: 42, imdb_url: "some imdb_url"}
-  @update_attrs %{description: "some updated description", title: "some updated title", year: 43, rating: "some updated rating", review_user_count: 43, review_user_score: 456.7, review_meta_score: 43, imdb_url: "some updated imdb_url"}
-  @invalid_attrs %{description: nil, title: nil, year: nil, rating: nil, review_user_count: nil, review_user_score: nil, review_meta_score: nil, imdb_url: nil}
+  @create_attrs %{
+    description: "some description",
+    title: "some title",
+    year: 42,
+    rating: "some rating",
+    review_user_count: 42,
+    review_user_score: 120.5,
+    review_meta_score: 42,
+    imdb_url: "some imdb_url"
+  }
+  @update_attrs %{
+    description: "some updated description",
+    title: "some updated title",
+    year: 43,
+    rating: "some updated rating",
+    review_user_count: 43,
+    review_user_score: 456.7,
+    review_meta_score: 43,
+    imdb_url: "some updated imdb_url"
+  }
+  @invalid_attrs %{
+    description: nil,
+    title: nil,
+    year: nil,
+    rating: nil,
+    review_user_count: nil,
+    review_user_score: nil,
+    review_meta_score: nil,
+    imdb_url: nil
+  }
 
   defp create_movie(_) do
     movie = movie_fixture()

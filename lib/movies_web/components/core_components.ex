@@ -460,6 +460,11 @@ defmodule MoviesWeb.CoreComponents do
   attr(:row_id, :any, default: nil, doc: "the function for generating the row id")
   attr(:row_click, :any, default: nil, doc: "the function for handling phx-click on each row")
 
+  attr(:header_click, :any,
+    default: nil,
+    doc: "the function for handling phx-click on each header"
+  )
+
   attr(:row_item, :any,
     default: &Function.identity/1,
     doc: "the function for mapping each row before calling the :col and :action slots"
@@ -467,7 +472,11 @@ defmodule MoviesWeb.CoreComponents do
 
   slot :col, required: true do
     attr(:label, :string)
+    attr(:sort_by, :string)
+    attr(:header_class, :string)
   end
+
+  attr(:opts, :any, doc: "the options for sorting and pagination")
 
   slot(:action, doc: "the slot for showing user actions in the last table column")
 
@@ -479,11 +488,25 @@ defmodule MoviesWeb.CoreComponents do
 
     ~H"""
     <div class="overflow-y-auto px-4 sm:overflow-visible sm:px-0">
-      <table class="w-[40rem] mt-11 sm:w-full">
+      <table class="w-[40rem] mt-11 sm:w-full table-fixed">
         <thead class="text-sm text-left leading-6 text-zinc-500">
           <tr>
-            <th :for={col <- @col} class="p-0 pb-4 pr-6 font-normal"><%= col[:label] %></th>
-            <th :if={@action != []} class="relative p-0 pb-4">
+            <th
+              :for={col <- @col}
+              class={[
+                "p-0 pb-4 pr-6 font-normal",
+                col[:header_class],
+                @header_click && col[:sort_by] && "hover:cursor-pointer"
+              ]}
+              phx-click={@header_click && col[:sort_by] && @header_click.(col[:sort_by])}
+            >
+              <%= col[:label] %>
+              <%= if @opts.sort_by == col[:sort_by] do %>
+                <.icon :if={@opts.order == :asc_nulls_last} name="hero-chevron-up" class="w-4" />
+                <.icon :if={@opts.order == :desc_nulls_last} name="hero-chevron-down" class="w-4" />
+              <% end %>
+            </th>
+            <th :if={@action != []} class={["relative p-0 pb-4"]}>
               <span class="sr-only"><%= gettext("Actions") %></span>
             </th>
           </tr>

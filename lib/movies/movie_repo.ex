@@ -17,11 +17,18 @@ defmodule Movies.MovieRepo do
       [%Movie{}, ...]
 
   """
-  def list_movies(page_size \\ 20) do
-    Movie |> limit(^page_size) |> Repo.all()
+  def list_movies(%{sort_by: sort_by, order: order, page_size: page_size, search: search}) do
+    query = Movie |> order_by({^order, ^sort_by}) |> maybe_search(search)
+
+    total_count = Repo.aggregate(query, :count)
+    result = query |> limit(^page_size) |> Repo.all()
+
+    %{total_count: total_count, result: result}
   end
 
-  def search_movies(query) do
+  def maybe_search(query, nil), do: query
+
+  def maybe_search(query, search_term) do
     query =
       from(entry in Movie,
         where:
@@ -29,13 +36,10 @@ defmodule Movies.MovieRepo do
             "ARRAY[?, ?] &@~ (?, ARRAY[5, 1], 'entries_pgroonga_index')::pgroonga_full_text_search_condition",
             entry.title,
             entry.description,
-            ^query
+            ^search_term
           ),
-        limit: 10,
         order_by: fragment("pgroonga_score(tableoid, ctid) DESC")
       )
-
-    Repo.all(query)
   end
 
   @doc """

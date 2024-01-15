@@ -4,9 +4,18 @@ defmodule MoviesWeb.MovieLive.Index do
   alias Movies.MovieRepo
   alias Movies.MovieRepo.Movie
 
+  def reverse_order(:asc_nulls_last), do: :desc_nulls_last
+  def reverse_order(:desc_nulls_last), do: :asc_nulls_last
+
+  @default_opts %{
+    "sort_by" => "id",
+    "order" => "asc_nulls_last",
+    "search" => ""
+  }
+
   @impl true
   def mount(_params, _session, socket) do
-    {:ok, stream(socket, :movies, MovieRepo.list_movies())}
+    {:ok, socket |> stream(:movies, []) |> assign(:opts, @default_opts)}
   end
 
   @impl true
@@ -26,10 +35,11 @@ defmodule MoviesWeb.MovieLive.Index do
     |> assign(:movie, %Movie{})
   end
 
-  defp apply_action(socket, :index, _params) do
+  defp apply_action(socket, :index, params) do
     socket
     |> assign(:page_title, "Listing Movies")
     |> assign(:movie, nil)
+    |> assign_movies(params)
   end
 
   @impl true
@@ -38,12 +48,8 @@ defmodule MoviesWeb.MovieLive.Index do
   end
 
   @impl true
-  def handle_event("search", %{"query" => ""}, socket) do
-    {:noreply, stream(socket, :movies, MovieRepo.list_movies(), reset: true)}
-  end
-
-  def handle_event("search", %{"query" => search}, socket) do
-    {:noreply, stream(socket, :movies, MovieRepo.search_movies(search), reset: true)}
+  def handle_event("search", params, socket) do
+    {:noreply, assign_movies(socket, params)}
   end
 
   @impl true
@@ -53,4 +59,24 @@ defmodule MoviesWeb.MovieLive.Index do
 
     {:noreply, stream_delete(socket, :movies, movie)}
   end
+
+  defp assign_movies(socket, params) do
+    opts = parse_opts(params)
+    %{result: movies, total_count: total_count} = MovieRepo.list_movies(opts)
+
+    socket
+    |> stream(:movies, movies, reset: true)
+    |> assign(:total_count, total_count)
+    |> assign(:opts, opts)
+  end
+
+  defp parse_opts(params) do
+    search = params |> Map.get("query", "") |> parse_search()
+    sort_by = params |> Map.get("sort_by", "id") |> String.to_existing_atom()
+    order = params |> Map.get("order", "asc_nulls_last") |> String.to_existing_atom()
+    %{sort_by: sort_by, order: order, search: search, page_size: 10}
+  end
+
+  defp parse_search(""), do: nil
+  defp parse_search(search), do: String.trim(search)
 end

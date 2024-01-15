@@ -1,5 +1,5 @@
 <.header>
-  Listing Movies
+  <.link navigate={~p"/"} class="text-2xl font-bold">Listing Movies (<%= @total_count %>)</.link>
   <:actions>
     <.link patch={~p"/new"}>
       <.button>New Movie</.button>
@@ -22,18 +22,51 @@
 <.table
   id="movies"
   rows={@streams.movies}
+  opts={@opts}
   row_click={fn {_id, movie} -> JS.navigate(~p"/#{movie}") end}
+  header_click={
+    fn sort_by -> JS.navigate(~p"/?#{[sort_by: sort_by, order: reverse_order(@opts.order)]}") end
+  }
 >
-  <:col :let={{_id, movie}} label="Title"><%= movie.title %></:col>
-  <:col :let={{_id, movie}} label="Rating"><%= movie.rating %></:col>
-  <:col :let={{_id, movie}} label="Year"><%= movie.year %></:col>
-  <:col :let={{_id, movie}} label="Description"><%= movie.description %></:col>
-  <:col :let={{_id, movie}} label="Review user count"><%= movie.review_usercount %></:col>
-  <:col :let={{_id, movie}} label="Review user score">
-    <%= movie.review_userscore |> Decimal.to_float() |> Float.round(2) %>
+  <:col :let={{_id, movie}} sort_by={:title} label="Title" header_class="w-2/12">
+    <%= movie.title %>
   </:col>
-  <:col :let={{_id, movie}} label="Review meta score"><%= movie.review_metascore %></:col>
-  <:col :let={{_id, movie}} label="Imdb url"><%= movie.imdburl %></:col>
+  <:col :let={{_id, movie}} sort_by={:rating} label="Rating" header_class="w-1/12">
+    <%= movie.rating %>
+  </:col>
+  <:col :let={{_id, movie}} sort_by={:year} label="Year" header_class="w-1/12">
+    <%= movie.year %>
+  </:col>
+  <:col :let={{_id, movie}} label="Description" header_class="w-3/12">
+    <%= movie.description %>
+  </:col>
+  <:col
+    :let={{_id, movie}}
+    sort_by={:review_usercount}
+    label="Review user count"
+    header_class="w-1/12"
+  >
+    <%= movie.review_usercount %>
+  </:col>
+  <:col
+    :let={{_id, movie}}
+    sort_by={:review_userscore}
+    label="Review user score"
+    header_class="w-1/12"
+  >
+    <%= movie.review_userscore && movie.review_userscore |> Decimal.to_float() |> Float.round(2) %>
+  </:col>
+  <:col
+    :let={{_id, movie}}
+    sort_by={:review_metascore}
+    label="Review meta score"
+    header_class="w-1/12"
+  >
+    <%= movie.review_metascore %>
+  </:col>
+  <:col :let={{_id, movie}} label="Imdb url" header_class="w-1/12">
+    <a href={movie.imdburl} target="_blank">Link</a>
+  </:col>
   <:action :let={{_id, movie}}>
     <div class="sr-only">
       <.link navigate={~p"/#{movie}"}>Show</.link>

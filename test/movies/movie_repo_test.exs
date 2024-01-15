@@ -8,7 +8,16 @@ defmodule Movies.MovieRepoTest do
 
     import Movies.MovieRepoFixtures
 
-    @invalid_attrs %{description: nil, title: nil, year: nil, rating: nil, review_user_count: nil, review_user_score: nil, review_meta_score: nil, imdb_url: nil}
+    @invalid_attrs %{
+      description: nil,
+      title: nil,
+      year: nil,
+      rating: nil,
+      review_user_count: nil,
+      review_user_score: nil,
+      review_meta_score: nil,
+      imdb_url: nil
+    }
 
     test "list_movies/0 returns all movies" do
       movie = movie_fixture()
@@ -21,7 +30,16 @@ defmodule Movies.MovieRepoTest do
     end
 
     test "create_movie/1 with valid data creates a movie" do
-      valid_attrs = %{description: "some description", title: "some title", year: 42, rating: "some rating", review_user_count: 42, review_user_score: 120.5, review_meta_score: 42, imdb_url: "some imdb_url"}
+      valid_attrs = %{
+        description: "some description",
+        title: "some title",
+        year: 42,
+        rating: "some rating",
+        review_user_count: 42,
+        review_user_score: 120.5,
+        review_meta_score: 42,
+        imdb_url: "some imdb_url"
+      }
 
       assert {:ok, %Movie{} = movie} = MovieRepo.create_movie(valid_attrs)
       assert movie.description == "some description"
@@ -40,7 +58,17 @@ defmodule Movies.MovieRepoTest do
 
     test "update_movie/2 with valid data updates the movie" do
       movie = movie_fixture()
-      update_attrs = %{description: "some updated description", title: "some updated title", year: 43, rating: "some updated rating", review_user_count: 43, review_user_score: 456.7, review_meta_score: 43, imdb_url: "some updated imdb_url"}
+
+      update_attrs = %{
+        description: "some updated description",
+        title: "some updated title",
+        year: 43,
+        rating: "some updated rating",
+        review_user_count: 43,
+        review_user_score: 456.7,
+        review_meta_score: 43,
+        imdb_url: "some updated imdb_url"
+      }
 
       assert {:ok, %Movie{} = movie} = MovieRepo.update_movie(movie, update_attrs)
       assert movie.description == "some updated description"
